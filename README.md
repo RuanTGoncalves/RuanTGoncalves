@@ -27,10 +27,12 @@ Possuo base sólida em Lógica de Programação e Power BI, avançando tecnicame
 </p> 
 
 ### 🔹 Business Intelligence
-- Power BI  
-- Modelagem de Dados  
-- Criação de KPIs  
-- Dashboards Interativos
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Data%20Modeling-005571?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KPIs-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dashboards-0A66C2?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
 
 ### 🔹 Ferramentas & Dev
 <p>
@@ -40,10 +42,14 @@ Possuo base sólida em Lógica de Programação e Power BI, avançando tecnicame
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
+
 ### 🔹 Metodologias
-- Agile / Scrum  
-- Clean Code
-  
+<p>
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean%20Code-000000?style=for-the-badge&logo=bookstack&logoColor=white"/>
+</p>
+
 ---
 ## 📬 Contato
 
