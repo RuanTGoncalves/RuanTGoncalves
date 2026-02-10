@@ -37,13 +37,12 @@ Possuo base sólida em Lógica de Programação e Power BI, avançando tecnicame
 ### 🔹 Metodologias
 - Agile / Scrum  
 - Clean Code
-- 
+  
 ---
 ## 📬 Contato
 
 📧 Email: ruantallesgoncalves@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/ruantgoncalves  
-💻 GitHub: https://github.com/ruantgoncalves  
 
 ---
 
