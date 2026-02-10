@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Ruan Talles Ribeiro Borges Gonçalves
 
-<!--
-**RuanTGoncalves/RuanTGoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student | 📊 Data & BI | 
 
-Here are some ideas to get you started:
+📍 São Luís, MA - Brasil  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+Estudante de Engenharia de Software engajado em projetos de alto impacto. Atuo na interseção entre tecnologia, dados e negócios, aplicando conceitos de geolocalização, monitoramento em tempo real e Business Intelligence.
+Possuo base sólida em Lógica de Programação e Power BI, avançando tecnicamente no desenvolvimento Web com HTML, CSS e JavaScript. Perfil com aprendizado ágil, visão sistêmica e foco em resolução de problemas.
+
+---
+## 💻 Competências Técnicas
+
+### 🔹 Linguagens
+- JavaScript  
+- Python
+
+### 🔹 Frontend
+- HTML  
+- CSS  
+- JavaScript  
+
+### 🔹 Business Intelligence
+- Power BI  
+- Modelagem de Dados  
+- Criação de KPIs  
+- Dashboards Interativos
+
+### 🔹 Ferramentas & Dev
+- Git & GitHub
+- Figma
+- Notion
+- VS Code
+
+### 🔹 Metodologias
+- Agile / Scrum  
+- Clean Code
+- 
+---
+## 📬 Contato
+
+📧 Email: ruantallesgoncalves@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/ruantgoncalves  
+💻 GitHub: https://github.com/ruantgoncalves  
+
+---
+
+Sempre aberto a oportunidades em Desenvolvimento, Dados e Projetos de Inovação.
