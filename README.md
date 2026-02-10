@@ -1,4 +1,4 @@
-# 👋 Ruan Talles Ribeiro Borges Gonçalves
+# 👋 Ruan Gonçalves
 
 🎓 Software Engineering Student | 📊 Data & BI | 
 
