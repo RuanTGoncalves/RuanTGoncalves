@@ -1,4 +1,4 @@
-# 👋 Ruan Gonçalves
+#  Ruan Gonçalves
 
 🎓 Software Engineering Student | 📊 Data & BI | 
 
